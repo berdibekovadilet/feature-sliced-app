@@ -1,3 +1,3 @@
 export function callTest() {
-  console.log("Adilet");
+  console.log("Adilet2");
 }
