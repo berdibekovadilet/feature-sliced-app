@@ -1,3 +1,5 @@
 import { render } from "react-dom";
+import App from "./App";
+import "./index.scss"
 
-render(<div>adilet</div>, document.getElementById("root"));
+render(<App />, document.getElementById("root"));
